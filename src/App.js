@@ -1,4 +1,3 @@
-//Now, it will upload a one "component" folder, and 3 JS files for the inner computations of tic-tac-toe game
 import React, { useState, useEffect } from 'react';
 import Board from './components/Board';
 import Scoreboard from './components/Scoreboard';
